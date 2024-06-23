@@ -1,4 +1,4 @@
-// src/JobApplicationForm.js
+
 import React from 'react';
 import useForm from './useForm';
 import './styles.css';
